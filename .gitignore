@@ -9,8 +9,6 @@ out/
 build
 
 # env files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -23,4 +21,4 @@ yarn-error.log*
 # misc
 .DS_Store
 *.pem
-.vscode
+config.bat
